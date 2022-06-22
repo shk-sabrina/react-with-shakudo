@@ -1,0 +1,7 @@
+pipeline:
+  name: "ReactApp Demo"
+  tasks:
+  - name: "npm start"
+    type: "bash script"
+    port: 8787
+    bash_script_path: "new-react-app/my-app/run.sh"

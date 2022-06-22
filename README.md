@@ -20,3 +20,5 @@ And finally, we create the React environment
 ```
 npx create-react-app my-app
 ```
+
+>>>>>>> 5968c5d35a99676960dea0f8e36d86b19917fe55
