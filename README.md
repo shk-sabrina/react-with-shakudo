@@ -1,5 +1,5 @@
 # react-with-shakudo
-Creating your React Application inside the Shakudo Platform
+To create your React Application inside the Shakudo Platform, you'll first need to setup your new Ubuntu machine environment
 
 ---
 
